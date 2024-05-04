@@ -1,0 +1,28 @@
+{
+  "name": "fqliengla",
+  "version": "1.0.3",
+  "description": "Load plain JavaScript files that don't use module patterns directly in node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wo55along/fqliengla.git"
+  },
+  "keywords": [
+    "load",
+    "require",
+    "module",
+    "import",
+    "export",
+    "amd",
+    "browser",
+    "exports"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "pre-commit": "0.0.x"
+  }
+}
